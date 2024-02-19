@@ -1,0 +1,25 @@
+{
+    "name": "axguowen/ctyun-common",
+    "description": "ctyun php sdk common package",
+    "keywords": [
+        "ctyun",
+        "phpsdk",
+        "common"
+    ],      
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "axguowen",
+            "email": "axguowen@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.5",
+        "axguowen/http-client": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "axguowen\\ctyun\\common": "src"
+        }
+    }
+}
