@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "axguowen\\ctyun\\common": "src"
+            "axguowen\\ctyun\\common\\": "src"
         }
     }
 }
